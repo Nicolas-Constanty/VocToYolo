@@ -1,0 +1,216 @@
+item {
+ id: 1
+ name: '1_club'
+}
+item {
+ id: 2
+ name: '1_diamond'
+}
+item {
+ id: 3
+ name: '1_heart'
+}
+item {
+ id: 4
+ name: '1_spade'
+}
+item {
+ id: 5
+ name: '2_club'
+}
+item {
+ id: 6
+ name: '2_diamond'
+}
+item {
+ id: 7
+ name: '2_heart'
+}
+item {
+ id: 8
+ name: '2_spade'
+}
+item {
+ id: 9
+ name: '3_club'
+}
+item {
+ id: 10
+ name: '3_diamond'
+}
+item {
+ id: 11
+ name: '3_heart'
+}
+item {
+ id: 12
+ name: '3_spade'
+}
+item {
+ id: 13
+ name: '4_club'
+}
+item {
+ id: 14
+ name: '4_diamond'
+}
+item {
+ id: 15
+ name: '4_heart'
+}
+item {
+ id: 16
+ name: '4_spade'
+}
+item {
+ id: 17
+ name: '5_club'
+}
+item {
+ id: 18
+ name: '5_diamond'
+}
+item {
+ id: 19
+ name: '5_heart'
+}
+item {
+ id: 20
+ name: '5_spade'
+}
+item {
+ id: 21
+ name: '6_club'
+}
+item {
+ id: 22
+ name: '6_diamond'
+}
+item {
+ id: 23
+ name: '6_heart'
+}
+item {
+ id: 24
+ name: '6_spade'
+}
+item {
+ id: 25
+ name: '7_club'
+}
+item {
+ id: 26
+ name: '7_diamond'
+}
+item {
+ id: 27
+ name: '7_heart'
+}
+item {
+ id: 28
+ name: '7_spade'
+}
+item {
+ id: 29
+ name: '8_club'
+}
+item {
+ id: 30
+ name: '8_diamond'
+}
+item {
+ id: 31
+ name: '8_heart'
+}
+item {
+ id: 32
+ name: '8_spade'
+}
+item {
+ id: 33
+ name: '9_club'
+}
+item {
+ id: 34
+ name: '9_diamond'
+}
+item {
+ id: 35
+ name: '9_heart'
+}
+item {
+ id: 36
+ name: '9_spade'
+}
+item {
+ id: 37
+ name: '10_club'
+}
+item {
+ id: 38
+ name: '10_diamond'
+}
+item {
+ id: 39
+ name: '10_heart'
+}
+item {
+ id: 40
+ name: '10_spade'
+}
+item {
+ id: 41
+ name: 'jack_club'
+}
+item {
+ id: 42
+ name: 'jack_diamond'
+}
+item {
+ id: 43
+ name: 'jack_heart'
+}
+item {
+ id: 44
+ name: 'jack_spade'
+}
+item {
+ id: 45
+ name: 'queen_club'
+}
+item {
+ id: 46
+ name: 'queen_diamond'
+}
+item {
+ id: 47
+ name: 'queen_heart'
+}
+item {
+ id: 48
+ name: 'queen_spade'
+}
+item {
+ id: 49
+ name: 'king_club'
+}
+item {
+ id: 50
+ name: 'king_diamond'
+}
+item {
+ id: 51
+ name: 'king_heart'
+}
+item {
+ id: 52
+ name: 'king_spade'
+}
+item {
+ id: 53
+ name: 'joker_red'
+}
+item {
+ id: 54
+ name: 'joker_black'
+}

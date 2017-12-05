@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+Part2_frame_2 1
+Part2_frame_3 1
+Part2_frame_12 -1
+Part2_frame_15 -1
+Part2_frame_21 -1
+Part2_frame_24 -1
+Part2_frame_30 -1
